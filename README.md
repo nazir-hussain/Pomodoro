@@ -1,7 +1,6 @@
 # Pomodoro
 
-Question 3
-medium
+Question (medium)
 
 Pomodoro
 Read about Pomodoro here.

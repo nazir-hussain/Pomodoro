@@ -6,9 +6,10 @@ Pomodoro
 Read about Pomodoro here.
 
 
-https://en.wikipedia.org/wiki/Pomodoro_Technique
-Task: create a Pomodoro timer
+https://en.wikipedia.org/wiki/Pomodoro_Technique <br>
+Task: create a Pomodoro timer <br>
 staff-solution: https://5fd46f0a8fce2146cd8899b8--goofy-bell-f5c7c2.netlify.app/
+
 Acceptance Criteria
 
 

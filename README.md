@@ -14,13 +14,13 @@ Acceptance Criteria
 
 All buttons should have following attributes respectively
 
-Set data-testid='set-btn'
+• Set data-testid='set-btn'
 
-Start data-testid='start-btn'
+• Start data-testid='start-btn'
 
-Stop data-testid='stop-btn'
+• Stop data-testid='stop-btn'
 
-Reset data-testid='reset-btn'
+• Reset data-testid='reset-btn'
 
 
 

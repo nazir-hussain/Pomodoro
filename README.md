@@ -47,4 +47,4 @@ All buttons should have following attributes respectively
 
 • Work-duration or Break-duration could be zero 0, but can not set to 0 both Work-Duration and Break-Duration simultaneously. If uses forcefully does so, then set to default values of work-duration and break-duration
 
-Note: Work-Duration default value is 25. Break-Duration default value is 5
+• Note: Work-Duration default value is 25. Break-Duration default value is 5

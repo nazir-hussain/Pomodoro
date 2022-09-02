@@ -39,7 +39,7 @@ All buttons should have following attributes respectively
 
 • Render Break-Time / Work-Time on screen as per requirement and clock-time
 
-Once clock started it's never stop unless user forcefully stop it.
+• Once clock started it's never stop unless user forcefully stop it.
 
 Should be able to switch between Work-Time to Break-Time and vice-versa. (Basically Loop work-time and break-time)
 

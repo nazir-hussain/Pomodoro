@@ -43,7 +43,7 @@ All buttons should have following attributes respectively
 
 • Should be able to switch between Work-Time to Break-Time and vice-versa. (Basically Loop work-time and break-time)
 
-Should be able to alert once Break-Time / Work-Time finishes. use alert()
+• Should be able to alert once Break-Time / Work-Time finishes. use alert()
 
 Work-duration or Break-duration could be zero 0, but can not set to 0 both Work-Duration and Break-Duration simultaneously. If uses forcefully does so, then set to default values of work-duration and break-duration
 

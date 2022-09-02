@@ -22,22 +22,17 @@ All buttons should have following attributes respectively
 • Stop data-testid='stop-btn'
 
 • Reset data-testid='reset-btn'
-
 <br>
 <br>
 <br>
-
-
 • Should have two INPUT-FIELDS with following attributes
 
 • First one for Work-Duration data-testid='work-duration'
 
 • Second one for Break-Duration data-testid='break-duration'
-
 <br>
 <br>
 <br>
-
 • User should not able to set negative value for work-duration and break-duration
 
 • Should be able to Enable / Disable buttons as demonstrated in staff's solution

@@ -35,7 +35,7 @@ All buttons should have following attributes respectively
 
 • User should not able to set negative value for work-duration and break-duration
 
-Should be able to Enable / Disable buttons as demonstrated in staff's solution
+• Should be able to Enable / Disable buttons as demonstrated in staff's solution
 
 Render Break-Time / Work-Time on screen as per requirement and clock-time
 

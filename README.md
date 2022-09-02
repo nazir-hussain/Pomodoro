@@ -37,7 +37,7 @@ All buttons should have following attributes respectively
 
 • Should be able to Enable / Disable buttons as demonstrated in staff's solution
 
-Render Break-Time / Work-Time on screen as per requirement and clock-time
+• Render Break-Time / Work-Time on screen as per requirement and clock-time
 
 Once clock started it's never stop unless user forcefully stop it.
 

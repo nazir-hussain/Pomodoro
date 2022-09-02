@@ -29,7 +29,7 @@ All buttons should have following attributes respectively
 
 • First one for Work-Duration data-testid='work-duration'
 
-Second one for Break-Duration data-testid='break-duration'
+• Second one for Break-Duration data-testid='break-duration'
 
 
 

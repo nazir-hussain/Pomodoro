@@ -27,7 +27,7 @@ All buttons should have following attributes respectively
 
 • Should have two INPUT-FIELDS with following attributes
 
-First one for Work-Duration data-testid='work-duration'
+• First one for Work-Duration data-testid='work-duration'
 
 Second one for Break-Duration data-testid='break-duration'
 

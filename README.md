@@ -23,6 +23,9 @@ All buttons should have following attributes respectively
 
 • Reset data-testid='reset-btn'
 
+<br>
+<br>
+<br>
 
 
 • Should have two INPUT-FIELDS with following attributes
@@ -31,7 +34,9 @@ All buttons should have following attributes respectively
 
 • Second one for Break-Duration data-testid='break-duration'
 
-
+<br>
+<br>
+<br>
 
 • User should not able to set negative value for work-duration and break-duration
 

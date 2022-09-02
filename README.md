@@ -41,7 +41,7 @@ All buttons should have following attributes respectively
 
 • Once clock started it's never stop unless user forcefully stop it.
 
-Should be able to switch between Work-Time to Break-Time and vice-versa. (Basically Loop work-time and break-time)
+• Should be able to switch between Work-Time to Break-Time and vice-versa. (Basically Loop work-time and break-time)
 
 Should be able to alert once Break-Time / Work-Time finishes. use alert()
 
